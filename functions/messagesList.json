@@ -1,0 +1,142 @@
+{
+    "000": {
+        "en":  "OK",
+        "es":  "OK",
+        "pt":  "OK"
+    },
+    "001": {
+        "en":  "Lo sentimos en este momento estamos experimentando problemas de conectividad. Vuelva a intentarlo mas tarde.",
+        "es":  "Lo sentimos en este momento estamos experimentando problemas de conectividad. Vuelva a intentarlo mas tarde.",
+        "pt":  "Lo sentimos en este momento estamos experimentando problemas de conectividad. Vuelva a intentarlo mas tarde."
+    },
+
+    "800": "MySQL: ",
+
+    "900": "mongoDB: ",   
+        
+    "100":{
+        "en":  "The username and password you entered do not match Please verify and try again.",
+        "es":  "El nombre de usuario y la contraseña ingresados no coinciden Por favor, verificalos e inténtalo nuevamente.",
+        "pt":  "O nome de usuário e senha que você digitou não correspondem Por favor, verifique e tente novamente."      
+    },
+    "101":{
+        "en":  "You must load the minimum authentication credentials, verify username and password and try again.",
+        "es":  "Debe cargar las credenciales minimas de autenticación, verify nombre de usuario y la contraseña e inténtalo nuevamente.",
+        "pt":  "Você deve carregar as credenciais de autenticação mínima, verificar nome de usuário e senha e tentar novamente."
+    },
+    "102":{
+        "en":  "Problems authenticating, please verify the data and try again.",
+        "es":  "Problemas al autenticarse, por favor verifique los datos e inténtalo nuevamente.",
+        "pt":  "Problemas na autenticação, verifique os dados e tente novamente."  
+    },
+    "103": {
+        "en":  "Invalid Token.",
+        "es":  "Token Inválido.",
+        "pt":  "Token Inválido."  
+    },
+    "104": {
+        "en":  "You have successfully logged out.",
+        "es":  "Se ha deslogueado correctamente.",
+        "pt":  "Você efetuou o logout com sucesso."  
+    },
+
+    "201": {
+        "en":  "The user account has been created.",
+        "es":  "La cuenta del usuario ha sido creada.",
+        "pt":  "A cuenta do usuário foi criada."  
+    },
+
+    "202": {
+        "en":  "Customer registration is successful.",
+        "es":  "Se registro el cliente.",
+        "pt":  "Registro de cliente é bem sucedido."  
+    },
+
+    "203": {
+        "en":  "The user account has been created without an associated client.",
+        "es":  "La cuenta del usuario ha sido creada sin un cliente asociado.",
+        "pt":  "A cuenta do usuário foi criada no cliente associado."
+    },
+
+    "204": {
+        "en":  "Your cuenta has been created, before you can identify you must activate the cuenta, to perform dicha activation.........",
+        "es":  "Su cuenta ha sido creada, antes de poder identificarse debe activar la cuenta, para realizar dicha activación.........",
+        "pt":  "Se você tiver criado, antes de poder identificar a ativação da cuenta, para realizar a ativação........."
+    },
+
+    "205": {
+        "en":  "Your cuenta has been created without an associated client, before you can identify you must activate your cuenta, to perform this activation .........",
+        "es":  "Su cuenta ha sido creada sin un cliente asociado, antes de poder identificarse debe activar la cuenta, para realizar dicha activación.........",
+        "pt":  "Se você tiver criado um cliente associado, antes de poder identificar a ativação da cuenta, para realizar a ativação ........."
+    },
+    
+    "206": {
+        "en":  "The user account has been associated with the customer.",
+        "es":  "La cuenta del usuario ha sido asociada al cliente.",
+        "pt":  "A cuenta do usuário foi associada ao cliente."  
+    },
+
+    "207": {
+        "en":  "The portals have been associated with the customer's account.",
+        "es":  "Los portales han sido asociados a la cuenta del cliente.",
+        "pt":  "Los portales han sido asociados à cuenta del cliente."
+    },
+
+    "210": {
+        "en":  "There was an error registering the user.",
+        "es":  "se produjo un error al registrar al usuario.",
+        "pt":  "Ocorreu um erro ao registrar o usuário."  
+    },
+    "211": {
+        "en":  "The username is not available.",
+        "es":  "El nombre de usuario no está disponible.",
+        "pt":  "Nome de usuário não está disponível."  
+    },
+    "212": {
+        "en":  "Email is already registered.",
+        "es":  "El correo electrónico ya se encuentra registrado.",
+        "pt":  "Email já está registrado."  
+    },
+    "220": {
+        "en":  "There was an error registering the customer.",
+        "es":  "se produjo un error al registrar al cliente.",
+        "pt":  "Ocorreu um erro ao registrar o cliente"  
+    },
+    "221": {
+        "en":  "The customer name is not available, there is already a customer with that name registered in the selected country.",
+        "es":  "El nombre de cliente no está disponible, ya existe un cliente con ese nombre registrado en el pais seleccionado.",
+        "pt":  "O nome do cliente não está disponível, já existe um cliente com esse nome registrado no país selecionado."  
+    },
+    "222": {
+        "en":  "The client is not enabled or was not registered.",
+        "es":  "El cliente no está habilitado o no fue dado de alta.",
+        "pt":  "O cliente não está ativado ou não foi registrado."  
+    },
+    "223": {
+        "en":  "Selected portales are not available or fueron creados.",
+        "es":  "Los portales seleccionados no están disponibles o no fueron creados.",
+        "pt":  "Os portais selecionados não estão disponíveis ou não em fueron creados."  
+    },
+
+    "224": {
+        "en":  "The client and/or user are not registered.",
+        "es":  "El cliente y/o usuario no se encuentran registrados.",
+        "pt":  "O cliente e/ou usuario no se encuentran registrados"  
+    },
+
+    "301":{
+        "en":  "No data found.",
+        "es":  "No se encontraron datos.",
+        "pt":  "Nenhum dado encontrado."
+
+    },
+    "302":{
+        "en":  "Data was inserted successfully.",
+        "es":  "Se insertaron los datos correctamente.",
+        "pt":  "Os dados foram inseridos corretamente."
+
+    }
+
+
+    
+}
